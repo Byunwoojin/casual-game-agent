@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4b0b97d13b1a4edf9b6fe3d69984501, type: 3}
+  m_Name: Level_002
+  m_EditorClassIdentifier: PuzzlePals::PuzzlePals.Data.LevelDataSO
+  levelNumber: 2
+  characterNameKey: 
+  characterSprite: {fileID: 21300000, guid: 8062e392b28f647ee948568b7a210031, type: 3}
+  pieceCount: 36
+  artistName: 
+  year: 0
+  imageBucket: 1
+  snapThreshold: 1.8
+  enablePieceDrift: 0
+  backgroundColor: {r: 0.78, g: 1, b: 0.8441667, a: 1}
