@@ -1,0 +1,428 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Characters Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: Characters
+  m_TableCollectionNameGuidString: 378b55c6d9e1744b88933fd530759435
+  m_Entries:
+  - m_Id: 569368576
+    m_Key: char_apple
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728704
+    m_Key: char_ball
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728705
+    m_Key: char_sun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728706
+    m_Key: char_heart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728707
+    m_Key: char_star
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728708
+    m_Key: char_cup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728709
+    m_Key: char_balloon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728710
+    m_Key: char_flower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728711
+    m_Key: char_house
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728712
+    m_Key: char_cake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728713
+    m_Key: char_car
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728714
+    m_Key: char_train
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728715
+    m_Key: char_boat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728716
+    m_Key: char_airplane
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728717
+    m_Key: char_bicycle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728718
+    m_Key: char_umbrella
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728719
+    m_Key: char_rainbow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728720
+    m_Key: char_ice_cream
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728721
+    m_Key: char_pencil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728722
+    m_Key: char_book
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728723
+    m_Key: char_tree
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728724
+    m_Key: char_kite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728725
+    m_Key: char_lollipop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728726
+    m_Key: char_piano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728727
+    m_Key: char_rocket
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728728
+    m_Key: char_camera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728729
+    m_Key: char_guitar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728730
+    m_Key: char_lighthouse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728731
+    m_Key: char_clock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728732
+    m_Key: char_castle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728733
+    m_Key: char_submarine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728734
+    m_Key: char_telescope
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728735
+    m_Key: char_lantern
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728736
+    m_Key: char_tractor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728737
+    m_Key: char_spaceship
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728738
+    m_Key: char_bridge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728739
+    m_Key: char_windmill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728740
+    m_Key: char_ferris_wheel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728741
+    m_Key: char_hot_air_balloon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728742
+    m_Key: char_crown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728743
+    m_Key: char_diamond
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728744
+    m_Key: char_snowflake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728745
+    m_Key: char_treasure_chest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728746
+    m_Key: char_cactus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728747
+    m_Key: char_pirate_ship
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728748
+    m_Key: char_robot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728749
+    m_Key: char_fire_truck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728750
+    m_Key: char_space_station
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728751
+    m_Key: char_dragon_ball
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728752
+    m_Key: char_magic_wand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728753
+    m_Key: char_cat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728754
+    m_Key: char_dog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728755
+    m_Key: char_duck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728756
+    m_Key: char_fish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728757
+    m_Key: char_chick
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728758
+    m_Key: char_rabbit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728759
+    m_Key: char_bear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728760
+    m_Key: char_penguin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728761
+    m_Key: char_pig
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728762
+    m_Key: char_frog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728763
+    m_Key: char_elephant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728764
+    m_Key: char_giraffe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728765
+    m_Key: char_lion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728766
+    m_Key: char_monkey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728767
+    m_Key: char_cow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728768
+    m_Key: char_horse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728769
+    m_Key: char_sheep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728770
+    m_Key: char_panda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728771
+    m_Key: char_koala
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728772
+    m_Key: char_turtle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728773
+    m_Key: char_butterfly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728774
+    m_Key: char_owl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728775
+    m_Key: char_peacock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728776
+    m_Key: char_crab
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728777
+    m_Key: char_octopus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728778
+    m_Key: char_flamingo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728779
+    m_Key: char_hedgehog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728780
+    m_Key: char_fox
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728781
+    m_Key: char_deer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728782
+    m_Key: char_parrot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728783
+    m_Key: char_hippo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728784
+    m_Key: char_crocodile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728785
+    m_Key: char_polar_bear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728786
+    m_Key: char_zebra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728787
+    m_Key: char_gorilla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728788
+    m_Key: char_kangaroo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728789
+    m_Key: char_narwhal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728790
+    m_Key: char_axolotl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728791
+    m_Key: char_sloth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728792
+    m_Key: char_chameleon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728793
+    m_Key: char_dragon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728794
+    m_Key: char_phoenix
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728795
+    m_Key: char_unicorn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728796
+    m_Key: char_mermaid_cat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728797
+    m_Key: char_dinosaur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728798
+    m_Key: char_shark
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728799
+    m_Key: char_toucan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728800
+    m_Key: char_snow_leopard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728801
+    m_Key: char_giant_squid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728802
+    m_Key: char_rainbow_dragon
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 736186077499359506
+  references:
+    version: 2
+    RefIds:
+    - rid: 736186077499359506
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1776339626558

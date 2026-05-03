@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect.unity
+    guid: a998f8946cad249b4af92606797e5725
+  - enabled: 0
+    path: Assets/Scenes/MainMenu.unity
+    guid: b164d15a6471e42088060a6ad810d944
+  - enabled: 1
+    path: Assets/Scenes/Gameplay.unity
+    guid: 2cdc6de9748c64238ad58737cf90bb05
+  - enabled: 1
+    path: Assets/Scenes/Complete.unity
+    guid: fe99da9f83e944fc4b14f3c8b09f37ee
+  - enabled: 1
+    path: Assets/Scenes/Gallery.unity
+    guid: ba9c705b34f0049e3ad81fab4dd46f7e
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 0c176cf1b304f4d9095020dfb547b2b6, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+    com.unity.localization.settings: {fileID: 11400000, guid: d362ded97ef1047b9a9197a19c931d91, type: 2}

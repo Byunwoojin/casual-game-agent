@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:tools="http://schemas.android.com/tools">
+    <!--
+        Auto Backup 비활성화 — 앱 삭제 후 재설치 시 PlayerPrefs(레벨 진행도/힌트 등) 가
+        Google Drive 에서 자동 복원되는 동작 차단.
+        tools:replace 로 Unity 가 자동 생성하는 default manifest 의 allowBackup 값을 override.
+    -->
+    <application
+        android:allowBackup="false"
+        android:fullBackupContent="false"
+        tools:replace="android:allowBackup,android:fullBackupContent">
+    </application>
+</manifest>

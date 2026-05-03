@@ -1,0 +1,423 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Characters_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 378b55c6d9e1744b88933fd530759435, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 569368576
+    m_Localized: Apple
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728704
+    m_Localized: Ball
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728705
+    m_Localized: Sun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728706
+    m_Localized: Heart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728707
+    m_Localized: Star
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728708
+    m_Localized: Cup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728709
+    m_Localized: Balloon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728710
+    m_Localized: Flower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728711
+    m_Localized: House
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728712
+    m_Localized: Cake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728713
+    m_Localized: Car
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728714
+    m_Localized: Train
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728715
+    m_Localized: Boat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728716
+    m_Localized: Airplane
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728717
+    m_Localized: Bicycle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728718
+    m_Localized: Umbrella
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728719
+    m_Localized: Rainbow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728720
+    m_Localized: Ice Cream
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728721
+    m_Localized: Pencil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728722
+    m_Localized: Book
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728723
+    m_Localized: Tree
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728724
+    m_Localized: Kite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728725
+    m_Localized: Lollipop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728726
+    m_Localized: Piano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728727
+    m_Localized: Rocket
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728728
+    m_Localized: Camera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728729
+    m_Localized: Guitar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728730
+    m_Localized: Lighthouse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728731
+    m_Localized: Clock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728732
+    m_Localized: Castle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728733
+    m_Localized: Submarine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728734
+    m_Localized: Telescope
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728735
+    m_Localized: Lantern
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728736
+    m_Localized: Tractor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728737
+    m_Localized: Spaceship
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728738
+    m_Localized: Bridge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728739
+    m_Localized: Windmill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728740
+    m_Localized: Ferris Wheel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728741
+    m_Localized: Hot Air Balloon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728742
+    m_Localized: Crown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728743
+    m_Localized: Diamond
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728744
+    m_Localized: Snowflake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728745
+    m_Localized: Treasure Chest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728746
+    m_Localized: Cactus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728747
+    m_Localized: Pirate Ship
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728748
+    m_Localized: Robot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728749
+    m_Localized: Fire Truck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728750
+    m_Localized: Space Station
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728751
+    m_Localized: Dragon Ball
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728752
+    m_Localized: Magic Wand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728753
+    m_Localized: Cat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728754
+    m_Localized: Dog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728755
+    m_Localized: Duck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728756
+    m_Localized: Fish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728757
+    m_Localized: Chick
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728758
+    m_Localized: Rabbit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728759
+    m_Localized: Bear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728760
+    m_Localized: Penguin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728761
+    m_Localized: Pig
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728762
+    m_Localized: Frog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728763
+    m_Localized: Elephant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728764
+    m_Localized: Giraffe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728765
+    m_Localized: Lion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728766
+    m_Localized: Monkey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728767
+    m_Localized: Cow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728768
+    m_Localized: Horse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728769
+    m_Localized: Sheep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728770
+    m_Localized: Panda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728771
+    m_Localized: Koala
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728772
+    m_Localized: Turtle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728773
+    m_Localized: Butterfly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728774
+    m_Localized: Owl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728775
+    m_Localized: Peacock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728776
+    m_Localized: Crab
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728777
+    m_Localized: Octopus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728778
+    m_Localized: Flamingo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728779
+    m_Localized: Hedgehog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728780
+    m_Localized: Fox
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728781
+    m_Localized: Deer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728782
+    m_Localized: Parrot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728783
+    m_Localized: Hippo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728784
+    m_Localized: Crocodile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728785
+    m_Localized: Polar Bear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728786
+    m_Localized: Zebra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728787
+    m_Localized: Gorilla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728788
+    m_Localized: Kangaroo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728789
+    m_Localized: Narwhal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728790
+    m_Localized: Axolotl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728791
+    m_Localized: Sloth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728792
+    m_Localized: Chameleon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728793
+    m_Localized: Dragon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728794
+    m_Localized: Phoenix
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728795
+    m_Localized: Unicorn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728796
+    m_Localized: Mermaid Cat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728797
+    m_Localized: Dinosaur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728798
+    m_Localized: Shark
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728799
+    m_Localized: Toucan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728800
+    m_Localized: Snow Leopard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728801
+    m_Localized: Giant Squid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 598728802
+    m_Localized: Rainbow Dragon
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
