@@ -1,0 +1,7 @@
+﻿<Solution>
+  <Project Path="SpotDiff.csproj" />
+  <Project Path="Assembly-CSharp-firstpass.csproj" />
+  <Project Path="SpotDiff.PlayMode.Tests.csproj" />
+  <Project Path="SpotDiff.EditMode.Tests.csproj" />
+  <Project Path="SpotDiff.Editor.csproj" />
+</Solution>

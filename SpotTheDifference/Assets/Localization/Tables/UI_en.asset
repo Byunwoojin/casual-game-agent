@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 1e55f636b03264c6ba6376d6136e4326, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 418373632
+    m_Localized: Spot the Difference
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150848
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150849
+    m_Localized: Spot the Difference
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150850
+    m_Localized: All Levels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150851
+    m_Localized: Unlocks in order
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150852
+    m_Localized: Complete the previous level first
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150853
+    m_Localized: '{0} spots'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150854
+    m_Localized: Easy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150855
+    m_Localized: Medium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150856
+    m_Localized: Hard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150857
+    m_Localized: Main
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150858
+    m_Localized: Gallery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150859
+    m_Localized: Gallery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150860
+    m_Localized: '{0}/{1}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150861
+    m_Localized: No pictures completed yet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150862
+    m_Localized: Well done!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150863
+    m_Localized: Next Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150864
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150865
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150866
+    m_Localized: Sound Effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150867
+    m_Localized: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150868
+    m_Localized: "v{0} \xB7 Spot the Difference"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

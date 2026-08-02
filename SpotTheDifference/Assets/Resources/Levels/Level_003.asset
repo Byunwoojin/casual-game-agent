@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b9f4191c7a80495d8007c6de0aefee4, type: 3}
+  m_Name: Level_003
+  m_EditorClassIdentifier: Assembly-CSharp::SpotDiff.Data.LevelDataSO
+  levelNumber: 3
+  difficulty: 2
+  originalSprite: {fileID: 21300000, guid: 482e5e6572c7544cbb2b0f1d1f6048a2, type: 3}
+  transformedSprite: {fileID: 21300000, guid: 6c4b13fcfb4ed459bbfb02d55a5c77f6, type: 3}
+  sourceImageWidth: 702
+  sourceImageHeight: 714
+  diffRegions:
+  - id: 1
+    x: 573
+    y: 271
+    width: 64
+    height: 54
+    centerX: 605
+    centerY: 300.8
+  - id: 2
+    x: 481
+    y: 455
+    width: 69
+    height: 45
+    centerX: 513.4
+    centerY: 475.5
+  - id: 3
+    x: 556
+    y: 620
+    width: 51
+    height: 55
+    centerX: 579.8
+    centerY: 647.2
+  - id: 4
+    x: 28
+    y: 663
+    width: 28
+    height: 51
+    centerX: 41.3
+    centerY: 686.8
+  - id: 5
+    x: 428
+    y: 542
+    width: 77
+    height: 35
+    centerX: 468.5
+    centerY: 556.9
+  - id: 6
+    x: 391
+    y: 213
+    width: 32
+    height: 48
+    centerX: 408.4
+    centerY: 235.9
