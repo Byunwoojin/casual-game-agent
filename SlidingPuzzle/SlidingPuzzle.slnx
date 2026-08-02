@@ -1,0 +1,7 @@
+﻿<Solution>
+  <Project Path="SlidingPuzzle.csproj" />
+  <Project Path="Assembly-CSharp-firstpass.csproj" />
+  <Project Path="SlidingPuzzle.PlayMode.Tests.csproj" />
+  <Project Path="SlidingPuzzle.EditMode.Tests.csproj" />
+  <Project Path="SlidingPuzzle.Editor.csproj" />
+</Solution>
