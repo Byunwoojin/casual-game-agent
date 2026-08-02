@@ -1,0 +1,23 @@
+{
+    "name": "MemoryMatch",
+    "rootNamespace": "MemoryMatch",
+    "references": [
+        "Unity.Localization",
+        "Unity.LevelPlay"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.services.levelplay",
+            "expression": "8.0.0",
+            "define": "LEVELPLAY_AVAILABLE"
+        }
+    ],
+    "noEngineReferences": false
+}
