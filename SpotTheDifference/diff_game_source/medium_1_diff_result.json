@@ -1,0 +1,68 @@
+{
+  "difficulty": "medium",
+  "original_image": "/mnt/user-data/uploads/medium_1_origin.png",
+  "transformed_image": "/mnt/user-data/uploads/medium_1_transfrom.png",
+  "image_width": 702,
+  "image_height": 768,
+  "ssim_score": 0.9367,
+  "expected_diff_count": 5,
+  "detected_count": 5,
+  "diff_regions": [
+    {
+      "id": 1,
+      "x": 566,
+      "y": 587,
+      "width": 126,
+      "height": 119,
+      "center_x": 633.0,
+      "center_y": 646.5,
+      "area_pct": 1.741,
+      "confirmed": true
+    },
+    {
+      "id": 2,
+      "x": 341,
+      "y": 144,
+      "width": 85,
+      "height": 96,
+      "center_x": 382.5,
+      "center_y": 190.5,
+      "area_pct": 1.343,
+      "confirmed": true
+    },
+    {
+      "id": 3,
+      "x": 531,
+      "y": 138,
+      "width": 56,
+      "height": 60,
+      "center_x": 558.6,
+      "center_y": 167.8,
+      "area_pct": 0.442,
+      "confirmed": true
+    },
+    {
+      "id": 4,
+      "x": 624,
+      "y": 472,
+      "width": 78,
+      "height": 40,
+      "center_x": 679.9,
+      "center_y": 492.6,
+      "area_pct": 0.3,
+      "confirmed": true
+    },
+    {
+      "id": 5,
+      "x": 410,
+      "y": 514,
+      "width": 35,
+      "height": 30,
+      "center_x": 426.7,
+      "center_y": 526.3,
+      "area_pct": 0.103,
+      "confirmed": true
+    }
+  ],
+  "confirmed_count": 5
+}

@@ -1,0 +1,70 @@
+{
+  "difficulty": "easy",
+  "original_image": "/mnt/user-data/uploads/easy_1_origin.png",
+  "transformed_image": "/mnt/user-data/uploads/easy_1_transform.png",
+  "image_width": 702,
+  "image_height": 768,
+  "ssim_score": 0.9722,
+  "expected_diff_count": 3,
+  "detected_count": 5,
+  "confirmed_count": 3,
+  "diff_regions": [
+    {
+      "id": 1,
+      "x": 62,
+      "y": 387,
+      "width": 62,
+      "height": 49,
+      "center_x": 92.3,
+      "center_y": 411.2,
+      "area_pct": 0.425,
+      "confirmed": true
+    },
+    {
+      "id": 2,
+      "x": 163,
+      "y": 529,
+      "width": 43,
+      "height": 37,
+      "center_x": 183.9,
+      "center_y": 547.5,
+      "area_pct": 0.185,
+      "confirmed": true
+    },
+    {
+      "id": 3,
+      "x": 166,
+      "y": 287,
+      "width": 29,
+      "height": 29,
+      "center_x": 180.7,
+      "center_y": 301.2,
+      "area_pct": 0.108,
+      "confirmed": false,
+      "note": "노이즈로 확인됨 (육안 확인)"
+    },
+    {
+      "id": 4,
+      "x": 18,
+      "y": 83,
+      "width": 29,
+      "height": 28,
+      "center_x": 31.9,
+      "center_y": 97.1,
+      "area_pct": 0.103,
+      "confirmed": true
+    },
+    {
+      "id": 5,
+      "x": 566,
+      "y": 621,
+      "width": 25,
+      "height": 54,
+      "center_x": 577.1,
+      "center_y": 650.1,
+      "area_pct": 0.096,
+      "confirmed": false,
+      "note": "노이즈로 확인됨 (육안 확인)"
+    }
+  ]
+}
