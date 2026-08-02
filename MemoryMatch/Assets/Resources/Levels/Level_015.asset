@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b9f4191c7a80495d8007c6de0aefee4, type: 3}
+  m_Name: Level_015
+  m_EditorClassIdentifier: MemoryMatch::MemoryMatch.Data.LevelDataSO
+  levelNumber: 15
+  difficulty: 2
+  cardSprites:
+  - {fileID: 21300000, guid: 64611c0f6b25142dcb91fba873f28019, type: 3}
+  - {fileID: 21300000, guid: f6cd3dfc128ec4c32bbf9a98c7163e8d, type: 3}
+  - {fileID: 21300000, guid: 0464817b463f8429aafe6b6e5e16074a, type: 3}
+  - {fileID: 21300000, guid: 24efda0e6d5fb4bb69e7fe260c665f50, type: 3}
+  - {fileID: 21300000, guid: 882e4b091002c40f09b5b1eef428df5d, type: 3}
+  - {fileID: 21300000, guid: 90885a517ffc54e6db7dd651bb9cd6a2, type: 3}
+  - {fileID: 21300000, guid: 3bbbfcb40128f4ff38e0d4fe30aebdb5, type: 3}
+  - {fileID: 21300000, guid: ad91f216bb86841adae4366f2bec615d, type: 3}
+  - {fileID: 21300000, guid: f06e7304df0594dd8ab36809316dceda, type: 3}
+  - {fileID: 21300000, guid: 56440bd70319748df8102a7a72eb6077, type: 3}
+  - {fileID: 21300000, guid: c0dee60e30f21443dbfa61e97e71e8b1, type: 3}
+  - {fileID: 21300000, guid: 7c2342d68b5284fbc836a0d37df51d97, type: 3}
+  pairCount: 12

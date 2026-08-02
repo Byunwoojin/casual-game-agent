@@ -1,0 +1,196 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: UI
+  m_TableCollectionNameGuidString: 1e55f636b03264c6ba6376d6136e4326
+  m_Entries:
+  - m_Id: 418373632
+    m_Key: app_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150848
+    m_Key: btn_play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150849
+    m_Key: level_select_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150850
+    m_Key: level_section_all
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150851
+    m_Key: level_section_subtitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150852
+    m_Key: level_locked_toast
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150853
+    m_Key: tile_pieces_format
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150854
+    m_Key: difficulty_easy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150855
+    m_Key: difficulty_medium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150856
+    m_Key: difficulty_hard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150857
+    m_Key: nav_home
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150858
+    m_Key: nav_collection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150859
+    m_Key: gallery_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150860
+    m_Key: gallery_count_format
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150861
+    m_Key: gallery_empty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150862
+    m_Key: complete_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150863
+    m_Key: complete_next_btn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150864
+    m_Key: settings_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150865
+    m_Key: settings_lang_subhead
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150866
+    m_Key: settings_sfx
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150867
+    m_Key: settings_bgm_v6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150868
+    m_Key: settings_version_format
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523865071616
+    m_Key: home_greeting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848832
+    m_Key: home_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848833
+    m_Key: level_progress_stat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848834
+    m_Key: level_milestone_next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848835
+    m_Key: level_milestone_last
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848836
+    m_Key: level_badge_now
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848837
+    m_Key: level_card_replay_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848838
+    m_Key: level_card_title_levelnum
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848839
+    m_Key: level_card_meta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848840
+    m_Key: level_continue_btn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848841
+    m_Key: level_replay_btn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848842
+    m_Key: level_locked_v6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848843
+    m_Key: gallery_subtitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848844
+    m_Key: gallery_progress_until
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848845
+    m_Key: gallery_progress_now
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848846
+    m_Key: level_badge_all_done
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848847
+    m_Key: gallery_floor_first
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848848
+    m_Key: gallery_floor_second
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848849
+    m_Key: gallery_empty_hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848850
+    m_Key: common_coming_soon
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8628339491113795652
+  references:
+    version: 2
+    RefIds:
+    - rid: 8628339491113795652
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1785677376154

@@ -1,0 +1,7 @@
+﻿<Solution>
+  <Project Path="MemoryMatch.csproj" />
+  <Project Path="Assembly-CSharp-firstpass.csproj" />
+  <Project Path="MemoryMatch.PlayMode.Tests.csproj" />
+  <Project Path="MemoryMatch.EditMode.Tests.csproj" />
+  <Project Path="MemoryMatch.Editor.csproj" />
+</Solution>

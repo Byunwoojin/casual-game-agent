@@ -1,0 +1,191 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 1e55f636b03264c6ba6376d6136e4326, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 418373632
+    m_Localized: Memory Match
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150848
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150849
+    m_Localized: Sliding Puzzle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150850
+    m_Localized: All Works
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150851
+    m_Localized: Unlocks in order
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150852
+    m_Localized: Complete the previous level first
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150853
+    m_Localized: '{0} cards'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150854
+    m_Localized: Easy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150855
+    m_Localized: Medium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150856
+    m_Localized: Hard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150857
+    m_Localized: Main
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150858
+    m_Localized: Gallery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150859
+    m_Localized: Card Hall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150860
+    m_Localized: '{0}/{1}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150861
+    m_Localized: No sets completed yet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150862
+    m_Localized: Well done!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150863
+    m_Localized: Next Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150864
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150865
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150866
+    m_Localized: Sound Effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150867
+    m_Localized: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 435150868
+    m_Localized: "v{0} \xB7 Memory Match"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523865071616
+    m_Localized: Welcome back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848832
+    m_Localized: Shall we match some cards?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848833
+    m_Localized: '{0} pts / {1} pts done'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848834
+    m_Localized: Next milestone +{0} pts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848835
+    m_Localized: Final challenge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848836
+    m_Localized: Up Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848837
+    m_Localized: Enjoy it once more
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848838
+    m_Localized: Level {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848839
+    m_Localized: "{0} cards \xB7 ~{1} min"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848840
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848841
+    m_Localized: Replay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848842
+    m_Localized: Complete the previous work first
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848843
+    m_Localized: My Gallery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848844
+    m_Localized: Until next work
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848845
+    m_Localized: Level {0} in progress
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848846
+    m_Localized: All Complete!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848847
+    m_Localized: FIRST FLOOR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848848
+    m_Localized: SECOND FLOOR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848849
+    m_Localized: Completed sets appear here
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20523881848850
+    m_Localized: Coming soon
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
